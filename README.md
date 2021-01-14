@@ -6,7 +6,7 @@ Alice swaps 5 NEAR for 100 Cheddar(CHDR), she then stakes them in the cheddy far
 
 Bob knows alice and wants to join in on the fun he swaps NEAR for CHDR and stakes it in the farm, but Bob is not interested in being a board member so he farms and HODL's CHDR for a while and then swaps it back to NEAR.
 
-## Where else can I use Cheddar
+## Where else can I use Cheddar?
 As the NEAR ecosystem continues develop and more DEFI apps come one line the cheddy team will work with other defi devs to find fun and useful ways to use and farm CHDR.
 
 The Cheddar defi app is comporised of and makes use of existing NEAR ecosystem applications:
