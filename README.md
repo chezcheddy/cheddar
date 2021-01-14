@@ -1,6 +1,14 @@
 # Cheddar Defi Farm
 A Defi token and farm on NEAR. Cheddar is a fun way for NEAR users to collect, swap and send Cheddar. To get Cheddar you can swap NEAR and stake it in the farm to stack even more Cheddar. Cheddar will also include a DAO (Phase II) where users can lock Cheddar to receive governance tokens to participate in the development process while earning additional rewards.
 
+## How to use Cheddar
+Alice swaps 5 NEAR for 100 Cheddar(CHDR), she then stakes them in the cheddy farm and earns more cheddar. Alice wants to make the most of the cheddy she's stacked, so locks some in the CHDR Boardroom this provides her with CHDR shares where she can take an active role in helping govern the CHDR ecosystem while earning CHDR and NEAR as a member. 
+
+Bob knows alice and wants to join in on the fun he swaps NEAR for CHDR and stakes it in the farm, but Bob is not interested in being a board member so he farms and HODL's CHDR for a while and then swaps it back to NEAR.
+
+## Where else can I use Cheddar
+As the NEAR ecosystem continues develop and more DEFI apps come one line the cheddy team will work with other defi devs to find fun and useful ways to use and farm CHDR.
+
 The Cheddar defi app is comporised of and makes use of existing NEAR ecosystem applications:
 
 - 1 BerryClub
